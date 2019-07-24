@@ -1,0 +1,8 @@
+title: Share.js
+description: 一键分享到微博，QQ空间，腾讯微博，人人，豆瓣
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
